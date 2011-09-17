@@ -1,0 +1,25 @@
+/* editor README
+ *
+ * Last modified by: Cory Dorning
+ * Last modified on: 09/17/2011
+ *
+ */
+
+ What is it?
+----------------------
+'editor' is a simple project, that really isn't a project at all. It
+is simply a collection of my text editor settings so I can easily access
+them from anywhere, at anytime.
+
+
+Feel free to use them all you want. The perspective of the settings is
+that of a front-end developer.
+
+
+Color Schemes & Themes
+-----------------------
+In addition to storing my settings for text editors here, I have also
+stripped out custom themes that I have written/modified for each them.
+
+Special attention has been paid to HTML, CSS and JavaScript, so if using
+a different language/technology, ymmv.
